@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#CECECE</color>
+    <color name="colorAccent">#03DAC5</color>
+    
+    <color name="instafirstcolor">#3c43e5</color>
+    <color name="instacentercolor">#d34267</color>
+    <color name="instalastcolor">#f6ac35</color>
+
+    <color name="statusbarcolor">#CECECE</color>
+    <color name="white">#ffff</color>
+    <color name="textcolor">#464646</color>
+</resources>
